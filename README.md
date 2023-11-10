@@ -29,7 +29,7 @@ python3 Casbin_get_users.py -f url.txt
 
 该开源工具是由作者按照开源许可证发布的，仅供个人学习和研究使用。作者不对您使用该工具所产生的任何后果负任何法律责任。
 
-                                 ![image-20231110093848701](/typora-images/image-20231110122500660.png)
+  ![image-20231110093848701](/typora-images/image-20231110122500660.png)
 
 
 
