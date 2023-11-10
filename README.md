@@ -10,7 +10,7 @@
 ```
 python3 Casbin_get_users.py -u http://127.0.0.1
 ```
-![image-20231110093848701](Casbin/typora-images/image-20231110122427233.png)
+![image-20231110093848701](/typora-images/image-20231110122427233.png)
 
 
 **批量检测**
