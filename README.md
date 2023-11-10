@@ -21,7 +21,7 @@ python3 Casbin_get_users.py -f url.txt
 
 ![image-20231110093848701](/typora-images/image-20231110122440940.png)
 
-脚本检查结束会在脚本文件夹下会自动生成result.txt文件，文件内容为存在漏洞的URL
+脚本检查结束会自动生成result.txt文件，文件内容为存在漏洞的URL
 
 ![image-20231110093848701](/typora-images/image-20231110122451107.png)
 
