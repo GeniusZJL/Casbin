@@ -19,17 +19,17 @@ python3 Casbin_get_users.py -u http://127.0.0.1
 python3 Casbin_get_users.py -f url.txt
 ```
 
-![image-20231110093848701](/typora-images/image-20231110122427233.png)
+![image-20231110093848701](/typora-images/image-20231110122440940.png)
 
 脚本检查结束会在脚本文件夹下会自动生成result.txt文件，文件内容为存在漏洞的URL
 
-![image-20231110093848701](/typora-images/image-20231110122427233.png)
+![image-20231110093848701](/typora-images/image-20231110122451107.png)
 
 ### [0x03 免责声明](https://github.com/charonlight/xxl-jobExploitGUI#0x03-免责声明)
 
 该开源工具是由作者按照开源许可证发布的，仅供个人学习和研究使用。作者不对您使用该工具所产生的任何后果负任何法律责任。
 
-![image-20231110093848701](/typora-images/image-20231110122427233.png)
+![image-20231110093848701](/typora-images/image-20231110122500660.png)
 
 
 
