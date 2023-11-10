@@ -11,7 +11,7 @@
 python3 Casbin_get_users.py -u http://127.0.0.1
 ```
 
-![image-20231110093654911](C:\Users\hxma2\AppData\Roaming\Typora\typora-user-images\image-20231110093654911.png)
+
 
 **批量检测**
 
